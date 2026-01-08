@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
-       alt="coding animation"
-       width="650">
-</div>
-
-
 <h1 align="center">Hi 👋, I'm Shamil</h1>
 
 <h3 align="center">AI Enthusiast | Building Data-Driven Intelligent Systems</h3>
